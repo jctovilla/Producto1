@@ -22,14 +22,14 @@
 		D96A4A2F14730CE200553179 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D96A4A3114730CE200553179 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D96A4A3314730CE200553179 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D96A4A3714730CE200553179 /* Producto1-Info.plist */ = {isa = PBXFileReference; path = "Producto1-Info.plist"; sourceTree = "<group>"; };
+		D96A4A3714730CE200553179 /* Producto1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Producto1-Info.plist"; sourceTree = "<group>"; };
 		D96A4A3914730CE200553179 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D96A4A3B14730CE200553179 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D96A4A3D14730CE200553179 /* Producto1-Prefix.pch */ = {isa = PBXFileReference; path = "Producto1-Prefix.pch"; sourceTree = "<group>"; };
-		D96A4A3E14730CE200553179 /* BCAppDelegate.h */ = {isa = PBXFileReference; path = BCAppDelegate.h; sourceTree = "<group>"; };
+		D96A4A3D14730CE200553179 /* Producto1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Producto1-Prefix.pch"; sourceTree = "<group>"; };
+		D96A4A3E14730CE200553179 /* BCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BCAppDelegate.h; sourceTree = "<group>"; };
 		D96A4A3F14730CE300553179 /* BCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BCAppDelegate.m; sourceTree = "<group>"; };
 		D96A4A4214730CE300553179 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		D96A4A4414730CE300553179 /* BCViewController.h */ = {isa = PBXFileReference; path = BCViewController.h; sourceTree = "<group>"; };
+		D96A4A4414730CE300553179 /* BCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BCViewController.h; sourceTree = "<group>"; };
 		D96A4A4514730CE300553179 /* BCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BCViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
